@@ -28,7 +28,7 @@ DEBUG = True
 ALLOWED_HOSTS = ['0.0.0.0', '154.16.112.81']
 
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:8080",
+    "http://localhost:8080", "https://www.foodme.me", "https://foodme.me"
 ]
 
 # Application definition
