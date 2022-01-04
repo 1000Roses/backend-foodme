@@ -1,4 +1,4 @@
-vocab_size = 9000
+vocab_size = 9500
 sequence_length = 30
 batch_size = 5
 
